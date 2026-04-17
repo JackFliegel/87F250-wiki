@@ -51,3 +51,17 @@ When asked to review the wiki:
 - Look for orphan pages and missing cross-links
 - Suggest changes conservatively
 - Do not silently rewrite large amounts of content without showing the edits
+
+## Skills
+
+Named procedures are defined in full detail in `.github/instructions/`. The summaries below are quick references.
+
+### `ingest`
+**Trigger:** "ingest", "ingest sources", "process this file"  
+**What it does:** Reads one or more files from `raw/`, extracts facts relevant to the 1987 F-250 5.0L EFI, creates/updates `wiki/sources/<slug>.md`, updates related system/maintenance pages with cited facts, updates `wiki/index.md`, and logs changes in `wiki/log.md`.  
+**Full procedure:** `.github/instructions/skill-ingest.instructions.md`
+
+### `lint`
+**Trigger:** "lint the wiki", "review the wiki", "audit the wiki"  
+**What it does:** Scans `wiki/` for unsupported claims, contradictions between pages or against sources, orphan pages, stale `_pending_` fields that sources have since answered, and broken source references. Reports findings grouped by category. Does not silently rewrite — shows proposed changes before applying.  
+**Full procedure:** `.github/instructions/skill-lint.instructions.md`
