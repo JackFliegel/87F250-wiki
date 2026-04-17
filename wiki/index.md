@@ -40,6 +40,14 @@
 | [Electrical & Vacuum Troubleshooting 1987](sources/electrical-vacuum-troubleshooting-1987.md) | `Full text of Electrical Vacuum Troubleshooting.md` | Wiring, fuses, EEC-IV sensor locations |
 | [Engine Emissions Diagnosis 1987](sources/engine-emissions-diagnosis-1987.md) | `Full text of Engine Emissions Diagnosis.md` | EEC-IV diagnostics, fuel pressure, emissions components |
 
+## This Truck (personal)
+
+| Page | Description |
+|------|-------------|
+| [My Truck](truck/my-truck.md) | Build details, VIN, mileage, modification history |
+| [Active Issues](truck/active-issues.md) | Open and monitoring issues on this specific truck |
+| [Resolved Issues](truck/resolved-issues.md) | Confirmed resolved issues |
+
 ## Meta
 
 - [Log](log.md) — change history
