@@ -2,7 +2,22 @@
 
 ---
 
-## 2026-04-17 — Ingested three OEM manuals from raw/manuals/
+## 2026-04-17 — Fuel filter installation detail added from §24-51
+
+**Source:** `Full text of Engine Shop Manual.md`, Section 24-51
+
+**Pages updated:**
+- `wiki/systems/fuel-system.md` — Fuel filter location confirmed (frame rail between high-pressure pump and engine); arrow-direction installation requirement noted; pending updated to reflect remaining unknowns (part number)
+- `wiki/maintenance/fluids-and-service.md` — Fuel filter row updated with location, arrow-direction note, clamp torque (1.7–2.8 N·m / 15–25 in-lb), and manual's service life statement
+
+**Key fact:** Filter has a flow arrow on the body; must point toward engine. Manual states filter "should last the life of the vehicle under normal driving conditions" — no mileage interval given.
+
+**Remaining unknowns:**
+- Exact part numbers (Fig. 3 labels base assembly 9B072 and tube assembly 9J338 — applicability to 5.0L EFI not confirmed)
+
+---
+
+
 
 **Sources ingested:**
 

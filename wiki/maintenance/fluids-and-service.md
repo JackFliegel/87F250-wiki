@@ -4,7 +4,7 @@
 
 **Applicability:** 1987 Ford F-250, 5.0 EFI V8  
 **Sources:**
-- `Full text of Engine Shop Manual.md` (Sections 21-01 — oil capacity; 27 — thermostat; 23-01 — spark plugs)
+- `Full text of Engine Shop Manual.md` (Sections 21-01 — oil capacity; 27 — thermostat; 23-01 — spark plugs; 24-51 — fuel filter)
 - `Full text of Engine Emissions Diagnosis.md` (Section 1 — spark plug sample from VECI decal)
 
 ---
@@ -54,7 +54,7 @@
 | Item | Notes | Interval | Source |
 |------|-------|----------|--------|
 | Air filter | _pending_ | _pending_ | — |
-| Fuel filter | 20-micron inline; between pump and fuel rail | _pending_ | Engine Shop Manual §24-05 |
+| Fuel filter | 20-micron inline; frame rail between high-pressure pump and engine. **Arrow on filter must point toward engine.** Clamp torque: 1.7–2.8 N·m (15–25 in-lb). Manual says filter "should last the life of the vehicle under normal driving conditions." | _pending_ | Engine Shop Manual §24-51 |
 | PCV valve | Rear of upper intake manifold | _pending_ | Engine Shop Manual §21-21 |
 
 ---
@@ -93,7 +93,7 @@
 
 - [ ] Confirm oil viscosity spec for this application (5W-30? 10W-30?)
 - [ ] Confirm coolant capacity (not extracted from manuals yet)
-- [ ] Confirm fuel filter part number and replacement interval (Section 24-51 not extracted)
+- [ ] Confirm fuel filter part number (base assembly 9B072, tube assembly 9J338 per Fig. 3 — verify these apply to 5.0L EFI specifically)
 - [ ] Confirm transmission type before specifying fluid
 - [ ] Confirm 4WD drivetrain components (transfer case model, axle models, fluid specs)
 - [ ] Verify thermostat spec against gasoline engine section (§27), not diesel (§22-08)

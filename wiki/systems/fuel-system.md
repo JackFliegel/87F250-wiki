@@ -4,7 +4,7 @@
 
 **Applicability:** 1987 Ford F-250, 5.0 EFI V8  
 **Sources:**
-- `Full text of Engine Shop Manual.md` (Sections 24-05, 24-35)
+- `Full text of Engine Shop Manual.md` (Sections 24-05, 24-35, 24-51)
 - `Full text of Engine Emissions Diagnosis.md` (Sections 3, 11)
 - `Full text of Electrical Vacuum Troubleshooting.md` (Section 40/54 — EEC component locations)
 
@@ -73,7 +73,7 @@ Source: Engine Shop Manual §24-05
 - **Fuel tank:** Location and capacity _pending_
 - **Low pressure pump:** In-tank, internal sump, nylon inlet filter
 - **High pressure pump:** Frame rail mounted; supplies main injection pressure
-- **Fuel filter:** 20-micron inline filter between pumps and fuel charging manifold. Location _pending_
+- **Fuel filter:** 20-micron inline filter, frame rail between high-pressure pump and engine. Arrow on filter body indicates flow direction — must point toward engine (pump → filter → engine). Source: Engine Shop Manual §24-51
 - **Fuel supply manifold / fuel rail:** Part No. 9F792. Distributes fuel to all 8 injectors
 - **Pressure regulator:** Part 9C968 — see above
 - **Inertia switch:** Toe-board right of transmission hump — safety cutoff
@@ -92,7 +92,8 @@ Source: Engine Shop Manual §24-05
 ## Unresolved Questions
 
 - [ ] Fuel tank capacity and location (single or dual tank?) — check Section 24-50 or owner records
-- [ ] Fuel filter part number and replacement interval — check Section 24-51
+- [ ] Fuel filter part number (filter base assembly 9B072, tube assembly 9J338 referenced in Fig. 3 — confirm these are the correct 5.0L EFI part numbers)
+- [ ] Fuel filter replacement interval — manual states "should last the life of the vehicle under normal driving conditions" but does not give a mileage spec (§24-51)
 - [ ] Fuel pressure test port location — not explicitly described in extracted sections
 - [ ] Low-pressure in-tank pump part number
 
