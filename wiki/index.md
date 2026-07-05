@@ -8,10 +8,10 @@
 
 ## Systems
 
-| Page | Description |
-|------|-------------|
-| [Engine](systems/engine.md) | 5.0 EFI engine specs, firing order, construction details |
-| [Electrical](systems/electrical.md) | Fuse panel, EEC-IV, sensors, ignition (TFI-IV) |
+| Page                                  | Description                                                    |
+| ------------------------------------- | -------------------------------------------------------------- |
+| [Engine](systems/engine.md)           | 5.0 EFI engine specs, firing order, construction details       |
+| [Electrical](systems/electrical.md)   | Fuse panel, EEC-IV, sensors, ignition (TFI-IV)                 |
 | [Fuel System](systems/fuel-system.md) | Two-pump EFI system, pressure specs, injectors, inertia switch |
 
 ## Problems
@@ -25,6 +25,7 @@
 | Page | Description |
 |------|-------------|
 | [Fluids & Service](maintenance/fluids-and-service.md) | Oil capacity, spark plug notes, thermostat spec |
+| [EEC-IV Self-Test](maintenance/eec-iv-self-test.md) | KOEO & KOER diagnostic procedure, code tables for 5.0L truck |
 
 ## Parts
 

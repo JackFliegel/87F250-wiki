@@ -15,21 +15,21 @@
 
 ## Specifications
 
-| Item | Value | Source |
-|------|-------|--------|
-| Displacement | 302 cu in / 5.0L | Engine Shop Manual §21-21 |
-| Configuration | OHV V-8 | Engine Shop Manual §21-21 |
-| Bore × Stroke | 4.00" × 3.00" | Engine Shop Manual §21-21-39 |
-| Firing order | **1-5-4-2-6-3-7-8** | Engine Shop Manual §21-21-39 |
-| Oil pressure (hot @ 2000 rpm) | 275 kPa (40–60 psi) | Engine Shop Manual §21-21-39 |
-| Fuel system | Multi-point EFI, 8 injectors | Engine Shop Manual §24-05 |
-| Oil capacity (w/ filter) | 6 qt US / 5.6 L | Engine Shop Manual §21-01 |
-| Oil capacity (w/o filter) | 5 qt US / 4.7 L | Engine Shop Manual §21-01 |
-| Compression ratio | _pending — not found in OCR'd text_ | — |
-| Horsepower | _pending_ | — |
-| Torque | _pending_ | — |
-| Coolant capacity | _pending_ | — |
-| VIN position 8 code | Likely **N** _(uncertain — OCR table alignment)_ | Engine Shop Manual §20-00 |
+| Item                          | Value                                            | Source                       |
+| ----------------------------- | ------------------------------------------------ | ---------------------------- |
+| Displacement                  | 302 cu in / 5.0L                                 | Engine Shop Manual §21-21    |
+| Configuration                 | OHV V-8                                          | Engine Shop Manual §21-21    |
+| Bore × Stroke                 | 4.00" × 3.00"                                    | Engine Shop Manual §21-21-39 |
+| Firing order                  | **1-5-4-2-6-3-7-8**                              | Engine Shop Manual §21-21-39 |
+| Oil pressure (hot @ 2000 rpm) | 275 kPa (40–60 psi)                              | Engine Shop Manual §21-21-39 |
+| Fuel system                   | Multi-point EFI, 8 injectors                     | Engine Shop Manual §24-05    |
+| Oil capacity (w/ filter)      | 6 qt US / 5.6 L                                  | Engine Shop Manual §21-01    |
+| Oil capacity (w/o filter)     | 5 qt US / 4.7 L                                  | Engine Shop Manual §21-01    |
+| Compression ratio             | _pending — not found in OCR'd text_              | —                            |
+| Horsepower                    | _pending_                                        | —                            |
+| Torque                        | _pending_                                        | —                            |
+| Coolant capacity              | _pending_                                        | —                            |
+| VIN position 8 code           | Likely **N** _(uncertain — OCR table alignment)_ | Engine Shop Manual §20-00    |
 
 ---
 

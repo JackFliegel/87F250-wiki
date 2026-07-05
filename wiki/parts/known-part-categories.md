@@ -15,19 +15,19 @@ Part numbers and compatibility notes should be sourced from OEM documentation, s
 
 ## Engine
 
-| Category | OEM Part # | Notes | Source |
-|----------|-----------|-------|--------|
-| Oil filter | _pending_ | — | — |
-| Spark plugs (×8) | _pending_ | — | — |
-| Plug wires | _pending_ | — | — |
-| Distributor cap | _pending_ | — | — |
-| Rotor | _pending_ | — | — |
-| Air filter | _pending_ | — | — |
-| PCV valve | _pending_ | — | — |
-| Thermostat | _pending_ | — | — |
-| Thermostat housing gasket | _pending_ | — | — |
-| Valve cover gaskets | _pending_ | — | — |
-| Intake manifold gaskets | _pending_ | — | — |
+| Category                  | OEM Part # | Notes | Source |
+| ------------------------- | ---------- | ----- | ------ |
+| Oil filter                | _pending_  | —     | —      |
+| Spark plugs (×8)          | _pending_  | —     | —      |
+| Plug wires                | _pending_  | —     | —      |
+| Distributor cap           | _pending_  | —     | —      |
+| Rotor                     | _pending_  | —     | —      |
+| Air filter                | _pending_  | —     | —      |
+| PCV valve                 | _pending_  | —     | —      |
+| Thermostat                | _pending_  | —     | —      |
+| Thermostat housing gasket | _pending_  | —     | —      |
+| Valve cover gaskets       | _pending_  | —     | —      |
+| Intake manifold gaskets   | _pending_  | —     | —      |
 
 ## Fuel System
 

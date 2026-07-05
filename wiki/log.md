@@ -2,6 +2,34 @@
 
 ---
 
+## 2026-07-01 — Updated active issue: Hard Start / No Start with Choppy Idle
+
+**Pages updated:**
+- `wiki/truck/active-issues.md` — added 2026-07-01 evidence; updated current assessment and recommended next steps
+- `wiki/maintenance/eec-iv-self-test.md` — **NEW** — full EEC-IV Quick Test procedure for 5.0L light truck, extracted from Engine Emissions Diagnosis Manual §16
+- `wiki/index.md` — added self-test page to Maintenance table
+
+**Summary:** Owner reports truck started and ran on 2026-07-01 with no modifications. Ran rough initially but smoothed out as engine warmed. Ambient temp warmer than April 19. This establishes a temperature correlation — the underlying issue is likely still present but masked by warm weather. Assessment updated to focus on temperature-sensitive suspects: ECT sensor, IAC valve, marginal fuel pressure, ignition components, and stale fuel.
+
+**New page created:** `wiki/maintenance/eec-iv-self-test.md` — complete procedure including equipment hookup, KOEO and KOER steps, code reading with analog voltmeter, and full Light Truck Service Code charts for the 5.0L EFI.
+
+**Next steps suggested:** EEC-IV self-test, fuel pressure measurement, fuel filter replacement, ignition inspection, IAC cleaning, spark plug check, vacuum hose inspection.
+
+---
+
+## 2026-04-19 — New active issue: Hard Start / No Start with Choppy Idle
+
+**Pages updated:**
+- `wiki/truck/active-issues.md` — added new issue entry
+
+**Summary:** Owner reports truck cranks, occasionally sputters to life with a rough choppy idle, then dies. Battery and terminals ruled out. No diagnostics performed yet.
+
+**Suspected causes (unconfirmed):** Fuel delivery (pump pressure, clogged filter), ignition (TFI module, cap/rotor/wires), EEC-IV sensor fault, or IAC/vacuum leak.
+
+**Next steps suggested:** Measure fuel pressure at Schrader valve; run EEC-IV KOEO self-test for fault codes.
+
+---
+
 ## 2026-04-17 — Fuel filter installation detail added from §24-51
 
 **Source:** `Full text of Engine Shop Manual.md`, Section 24-51

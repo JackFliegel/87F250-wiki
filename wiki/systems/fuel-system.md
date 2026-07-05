@@ -20,21 +20,21 @@ Source: Engine Shop Manual §24-05
 
 ## Fuel Pump System
 
-| Item | Detail | Source |
-|------|--------|--------|
-| Pump configuration | **Two pumps** — low pressure (in-tank) + high pressure (chassis-mounted) | Engine Shop Manual §24-35 |
-| Low pressure pump location | Inside fuel tank, inlet at bottom of internal sump | Engine Shop Manual §24-35 |
-| High pressure pump location | Frame rail (chassis-mounted) | Engine Shop Manual §24-35 |
-| High pressure pump output | 269.0 kPa (39 psi) working pressure; 60 L/hr (15.9 gal/hr) | Engine Shop Manual §24-35 |
-| Overpressure relief | 850 kPa (123 psi) internal relief valve | Engine Shop Manual §24-35 |
-| Fuel pump control | EEC-IV module via fuel pump relay | Engine Shop Manual §24-35 |
-| Pump shutoff threshold | Engine below 120 rpm (or stopped) | Engine Shop Manual §24-35 |
-| Key-on pre-pressurization | Pump runs ~1 second then shuts off if ignition not turned to START | Engine Shop Manual §24-35 |
-| Fuel pump relay location | Under plastic shield at air cleaner support bracket | EVTM §40 |
-| Inertia switch location (F-Series) | **Toe-board, to the right of the transmission hump** | Engine Shop Manual §24-35 |
-| Inertia switch function | Opens on impact, cuts power to fuel pump | Engine Shop Manual §24-35 |
-| Inertia switch reset | Press button on top of switch | Engine Shop Manual §24-35 |
-| Fuel type required | Unleaded only (catalytic converter equipped) | Engine Shop Manual §24-01; Engine Emissions Diagnosis §1 |
+| Item                               | Detail                                                                   | Source                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------- |
+| Pump configuration                 | **Two pumps** — low pressure (in-tank) + high pressure (chassis-mounted) | Engine Shop Manual §24-35                                |
+| Low pressure pump location         | Inside fuel tank, inlet at bottom of internal sump                       | Engine Shop Manual §24-35                                |
+| High pressure pump location        | Frame rail (chassis-mounted)                                             | Engine Shop Manual §24-35                                |
+| High pressure pump output          | 269.0 kPa (39 psi) working pressure; 60 L/hr (15.9 gal/hr)               | Engine Shop Manual §24-35                                |
+| Overpressure relief                | 850 kPa (123 psi) internal relief valve                                  | Engine Shop Manual §24-35                                |
+| Fuel pump control                  | EEC-IV module via fuel pump relay                                        | Engine Shop Manual §24-35                                |
+| Pump shutoff threshold             | Engine below 120 rpm (or stopped)                                        | Engine Shop Manual §24-35                                |
+| Key-on pre-pressurization          | Pump runs ~1 second then shuts off if ignition not turned to START       | Engine Shop Manual §24-35                                |
+| Fuel pump relay location           | Under plastic shield at air cleaner support bracket                      | EVTM §40                                                 |
+| Inertia switch location (F-Series) | **Toe-board, to the right of the transmission hump**                     | Engine Shop Manual §24-35                                |
+| Inertia switch function            | Opens on impact, cuts power to fuel pump                                 | Engine Shop Manual §24-35                                |
+| Inertia switch reset               | Press button on top of switch                                            | Engine Shop Manual §24-35                                |
+| Fuel type required                 | Unleaded only (catalytic converter equipped)                             | Engine Shop Manual §24-01; Engine Emissions Diagnosis §1 |
 
 **Warning:** Do not reset the inertia switch until the complete fuel system has been inspected for leaks.
 

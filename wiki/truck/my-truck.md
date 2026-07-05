@@ -10,18 +10,18 @@
 
 ## Identity
 
-| Field | Value |
-|---|---|
-| Year | 1987 |
-| Make | Ford |
-| Model | F-250 |
-| Trim | _pending_ |
-| Engine | _pending_ (expected: 5.0L EFI V8) |
-| Transmission | _pending_ |
-| Axle ratio | _pending_ |
-| VIN | _pending_ |
-| Color | _pending_ |
-| Mileage (current) | _pending_ |
+| Field             | Value                             |
+| ----------------- | --------------------------------- |
+| Year              | 1987                              |
+| Make              | Ford                              |
+| Model             | F-250                             |
+| Trim              | _pending_                         |
+| Engine            | _pending_ (expected: 5.0L EFI V8) |
+| Transmission      | _pending_                         |
+| Axle ratio        | _pending_                         |
+| VIN               | _pending_                         |
+| Color             | _pending_                         |
+| Mileage (current) | _pending_                         |
 
 ## Known history
 
