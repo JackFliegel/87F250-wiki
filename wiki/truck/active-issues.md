@@ -1,3 +1,11 @@
+---
+type: Issue Log
+title: Active Issues
+description: Open and monitoring issues specific to this truck.
+tags: [this-truck, issues, active]
+timestamp: 2026-07-01T00:00:00Z
+---
+
 # Active Issues
 
 **Summary:** Open and monitoring issues specific to this truck.

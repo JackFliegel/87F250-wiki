@@ -1,3 +1,11 @@
+---
+type: System
+title: Fuel System
+description: Two-pump EFI fuel delivery, injectors, pressure specs, and inertia switch for the 1987 F-250 5.0 EFI V8.
+tags: [fuel-system, efi, injectors, fuel-pump, pressure]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Fuel System
 
 **Summary:** Fuel delivery, injectors, fuel pump, pressure specs, and related notes for the 1987 F-250 5.0 EFI V8.

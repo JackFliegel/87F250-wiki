@@ -1,3 +1,12 @@
+---
+type: Source
+title: 1987 Electrical & Vacuum Troubleshooting Manual (EVTM)
+description: OEM wiring and vacuum troubleshooting manual for 1987 Bronco and F-150–F-350, including fuse panel and EEC-IV component locations.
+resource: ../../raw/manuals/Full text of Electrical Vacuum Troubleshooting.md
+tags: [source, oem-manual, electrical, wiring, ocr]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Source: 1987 Electrical & Vacuum Troubleshooting Manual (EVTM)
 
 **Full title:** Ford 1987 Bronco F-150 F-250 F-350 Electrical & Vacuum Troubleshooting Shop Manual  

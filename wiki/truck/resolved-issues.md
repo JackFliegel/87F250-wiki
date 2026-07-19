@@ -1,3 +1,11 @@
+---
+type: Issue Log
+title: Resolved Issues
+description: Issues that have been confirmed resolved on this truck.
+tags: [this-truck, issues, resolved]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Resolved Issues
 
 **Summary:** Issues that have been confirmed resolved on this truck.

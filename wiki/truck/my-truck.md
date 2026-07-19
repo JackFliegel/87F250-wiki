@@ -1,3 +1,11 @@
+---
+type: Vehicle
+title: My Truck
+description: Identity and known build details for this specific 1987 Ford F-250.
+tags: [this-truck, identity, build]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # My Truck
 
 **Summary:** Identity and known build details for this specific 1987 Ford F-250.

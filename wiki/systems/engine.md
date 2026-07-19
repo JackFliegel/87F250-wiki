@@ -1,3 +1,11 @@
+---
+type: System
+title: Engine — 5.0 EFI V8
+description: 1987 F-250 5.0L (302 cu in) EFI V8 engine specs, construction, ignition, and components.
+tags: [engine, 5.0l, efi, v8, specs]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Engine — 5.0 EFI V8
 
 **Summary:** Notes on the 1987 F-250's 5.0L (302 cu in) EFI V8 engine — specs, components, and sourced observations.

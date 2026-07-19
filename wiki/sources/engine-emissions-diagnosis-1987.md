@@ -1,3 +1,12 @@
+---
+type: Source
+title: 1987 Engine & Emissions Diagnosis Manual (Manual H)
+description: OEM engine and emissions diagnosis manual covering EEC-IV diagnostics, fuel pressure, and emissions components for 1987 Ford cars and trucks.
+resource: ../../raw/manuals/Full text of Engine Emissions Diagnosis.md
+tags: [source, oem-manual, emissions, eec-iv, diagnostics, ocr]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Source: 1987 Engine & Emissions Diagnosis Manual (Manual H)
 
 **Full title:** Ford 1987 Car Truck Light Medium Heavy Duty Engine & Emissions Diagnosis Shop Manual H  

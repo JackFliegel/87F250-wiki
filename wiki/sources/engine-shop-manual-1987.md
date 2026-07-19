@@ -1,3 +1,12 @@
+---
+type: Source
+title: 1987 Engine Shop Manual (Manual B)
+description: OEM engine shop manual covering engine, fuel, ignition, and cooling for 1987 Bronco/Econoline/F-Series.
+resource: ../../raw/manuals/Full text of Engine Shop Manual.md
+tags: [source, oem-manual, engine, ocr]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Source: 1987 Engine Shop Manual (Manual B)
 
 **Full title:** Ford 1987 Bronco Econoline Light Truck E-150 E-250 E-350 F-150 F-250 F-350 Engine Shop Manual B  

@@ -1,56 +1,45 @@
-# 1987 Ford F-250 Knowledge Base — Index
-
-**Vehicle:** 1987 Ford F-250  
-**Engine:** EFI 5.0 V8 (302 cu in)  
-**Status:** Three OEM manuals ingested; key specs populated
-
+---
+okf_version: "0.1"
 ---
 
-## Systems
+# 1987 Ford F-250 Knowledge Base
 
-| Page                                  | Description                                                    |
-| ------------------------------------- | -------------------------------------------------------------- |
-| [Engine](systems/engine.md)           | 5.0 EFI engine specs, firing order, construction details       |
-| [Electrical](systems/electrical.md)   | Fuse panel, EEC-IV, sensors, ignition (TFI-IV)                 |
-| [Fuel System](systems/fuel-system.md) | Two-pump EFI system, pressure specs, injectors, inertia switch |
+Knowledge bundle for a 1987 Ford F-250 with the EFI 5.0L V8 (302 cu in). Three OEM manuals ingested; key specs populated. Concepts are grouped below for progressive disclosure.
 
-## Problems
+# Systems
 
-| Page | Description |
-|------|-------------|
-| [Common Issues](problems/common-issues.md) | Symptoms and troubleshooting index |
+* [Engine — 5.0 EFI V8](systems/engine.md) - 5.0 EFI engine specs, firing order, and construction details.
+* [Electrical System](systems/electrical.md) - Fuse panel, EEC-IV sensors, and TFI-IV ignition.
+* [Fuel System](systems/fuel-system.md) - Two-pump EFI system, pressure specs, injectors, and inertia switch.
 
-## Maintenance
+# Problems
 
-| Page | Description |
-|------|-------------|
-| [Fluids & Service](maintenance/fluids-and-service.md) | Oil capacity, spark plug notes, thermostat spec |
-| [EEC-IV Self-Test](maintenance/eec-iv-self-test.md) | KOEO & KOER diagnostic procedure, code tables for 5.0L truck |
+* [Common Issues](problems/common-issues.md) - Symptoms and troubleshooting index.
 
-## Parts
+# Maintenance
 
-| Page | Description |
-|------|-------------|
-| [Known Part Categories](parts/known-part-categories.md) | Part number index and compatibility notes |
+* [Fluids & Service](maintenance/fluids-and-service.md) - Oil capacity, spark plug notes, and thermostat spec.
+* [EEC-IV Self-Test](maintenance/eec-iv-self-test.md) - KOEO & KOER diagnostic procedure with 5.0L code tables.
 
-## Sources
+# Parts
 
-| Page | File | Coverage |
-|------|------|----------|
-| [Engine Shop Manual 1987](sources/engine-shop-manual-1987.md) | `Full text of Engine Shop Manual.md` | Engine, fuel system, ignition, cooling |
-| [Electrical & Vacuum Troubleshooting 1987](sources/electrical-vacuum-troubleshooting-1987.md) | `Full text of Electrical Vacuum Troubleshooting.md` | Wiring, fuses, EEC-IV sensor locations |
-| [Engine Emissions Diagnosis 1987](sources/engine-emissions-diagnosis-1987.md) | `Full text of Engine Emissions Diagnosis.md` | EEC-IV diagnostics, fuel pressure, emissions components |
+* [Known Part Categories](parts/known-part-categories.md) - Part number index and compatibility notes.
 
-## This Truck (personal)
+# Sources
 
-| Page | Description |
-|------|-------------|
-| [My Truck](truck/my-truck.md) | Build details, VIN, mileage, modification history |
-| [Active Issues](truck/active-issues.md) | Open and monitoring issues on this specific truck |
-| [Resolved Issues](truck/resolved-issues.md) | Confirmed resolved issues |
+* [1987 Engine Shop Manual (Manual B)](sources/engine-shop-manual-1987.md) - Engine, fuel system, ignition, and cooling.
+* [1987 Electrical & Vacuum Troubleshooting (EVTM)](sources/electrical-vacuum-troubleshooting-1987.md) - Wiring, fuses, and EEC-IV sensor locations.
+* [1987 Engine & Emissions Diagnosis (Manual H)](sources/engine-emissions-diagnosis-1987.md) - EEC-IV diagnostics, fuel pressure, and emissions components.
 
-## Meta
+# This Truck (personal)
 
-- [Log](log.md) — change history
-- Raw source material lives in `raw/manuals/`, `raw/images/`, `raw/personal/`
+* [My Truck](truck/my-truck.md) - Build details, VIN, mileage, and modification history.
+* [Active Issues](truck/active-issues.md) - Open and monitoring issues on this specific truck.
+* [Resolved Issues](truck/resolved-issues.md) - Confirmed resolved issues.
+
+# Meta
+
+* [Log](log.md) - Change history for this bundle.
+
+Raw source material lives outside the bundle in `raw/manuals/`, `raw/images/`, and `raw/personal/`.
 

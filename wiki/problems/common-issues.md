@@ -1,3 +1,11 @@
+---
+type: Troubleshooting Index
+title: Common Issues
+description: Index of known symptoms, observed problems, and troubleshooting notes for the 1987 F-250 5.0 EFI V8.
+tags: [problems, troubleshooting, symptoms]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Common Issues
 
 **Summary:** Index of known symptoms, observed problems, and troubleshooting notes for the 1987 F-250 5.0 EFI V8.

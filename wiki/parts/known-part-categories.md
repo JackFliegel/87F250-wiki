@@ -1,3 +1,11 @@
+---
+type: Parts Catalog
+title: Known Part Categories
+description: Index of part categories, known part numbers, and compatibility notes for the 1987 F-250 5.0 EFI V8.
+tags: [parts, part-numbers, compatibility]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Known Part Categories
 
 **Summary:** Index of part categories, known part numbers, and compatibility notes for the 1987 F-250 5.0 EFI V8.

@@ -1,3 +1,11 @@
+---
+type: Maintenance Reference
+title: Fluids & Service
+description: Fluid capacities, spark plug specs, thermostat range, and service notes for the 1987 F-250 5.0 EFI V8.
+tags: [maintenance, fluids, oil, spark-plugs, thermostat, service]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Fluids & Service
 
 **Summary:** Service intervals, fluid specifications, and maintenance procedures for the 1987 F-250 5.0 EFI V8.

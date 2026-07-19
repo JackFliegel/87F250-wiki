@@ -1,3 +1,11 @@
+---
+type: Procedure
+title: EEC-IV Self-Test Procedure (Quick Test)
+description: Step-by-step KOEO and KOER EEC-IV self-test procedure for reading fault codes on the 1987 F-250 5.0L EFI.
+tags: [diagnostics, eec-iv, self-test, koeo, koer, fault-codes]
+timestamp: 2026-07-01T00:00:00Z
+---
+
 # EEC-IV Self-Test Procedure (Quick Test)
 
 **Summary:** Step-by-step procedure to run the EEC-IV Key On Engine Off (KOEO) and Engine Running (KOER) self-tests on the 1987 F-250 5.0L EFI.

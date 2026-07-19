@@ -1,51 +1,26 @@
-# Wiki Change Log
+# Bundle Update Log
 
----
+## 2026-07-05
 
-## 2026-07-01 — Updated active issue: Hard Start / No Start with Choppy Idle
+* **Migration**: Converted the bundle to Open Knowledge Format (OKF) v0.1. Added YAML frontmatter (`type`, `title`, `description`, `tags`, `timestamp`) to every concept document under `systems/`, `problems/`, `maintenance/`, `parts/`, `sources/`, and `truck/`.
+* **Update**: Reformatted [index](index.md) into OKF §6 progressive-disclosure sections and declared `okf_version: "0.1"` in its frontmatter.
+* **Update**: Reformatted this log into OKF §7 date-grouped form (ISO 8601 headings, newest first).
+* **Creation**: Added per-directory `index.md` listings for each subdirectory.
 
-**Pages updated:**
-- `wiki/truck/active-issues.md` — added 2026-07-01 evidence; updated current assessment and recommended next steps
-- `wiki/maintenance/eec-iv-self-test.md` — **NEW** — full EEC-IV Quick Test procedure for 5.0L light truck, extracted from Engine Emissions Diagnosis Manual §16
-- `wiki/index.md` — added self-test page to Maintenance table
+## 2026-07-01
 
-**Summary:** Owner reports truck started and ran on 2026-07-01 with no modifications. Ran rough initially but smoothed out as engine warmed. Ambient temp warmer than April 19. This establishes a temperature correlation — the underlying issue is likely still present but masked by warm weather. Assessment updated to focus on temperature-sensitive suspects: ECT sensor, IAC valve, marginal fuel pressure, ignition components, and stale fuel.
+* **Update**: Revised active issue "Hard Start / No Start with Choppy Idle" in [active issues](truck/active-issues.md) with 2026-07-01 evidence, updated assessment, and next steps. Owner reports the truck started and ran with no modifications, running rough then smoothing as it warmed — suggesting a temperature correlation. Suspects narrowed to ECT sensor, IAC valve, marginal fuel pressure, ignition components, and stale fuel.
+* **Creation**: Added [EEC-IV Self-Test](maintenance/eec-iv-self-test.md) — full KOEO/KOER Quick Test procedure with equipment hookup, analog-voltmeter code reading, and Light Truck Service Code charts for the 5.0L EFI, extracted from Engine Emissions Diagnosis Manual §16.
+* **Update**: Added the self-test page to the [index](index.md).
 
-**New page created:** `wiki/maintenance/eec-iv-self-test.md` — complete procedure including equipment hookup, KOEO and KOER steps, code reading with analog voltmeter, and full Light Truck Service Code charts for the 5.0L EFI.
+## 2026-04-19
 
-**Next steps suggested:** EEC-IV self-test, fuel pressure measurement, fuel filter replacement, ignition inspection, IAC cleaning, spark plug check, vacuum hose inspection.
+* **Creation**: Added active issue "Hard Start / No Start with Choppy Idle" to [active issues](truck/active-issues.md). Owner reports the truck cranks, occasionally sputters to life with a rough choppy idle, then dies; battery and terminals ruled out; no diagnostics performed yet. Suspected (unconfirmed) causes: fuel delivery, ignition, EEC-IV sensor fault, or IAC/vacuum leak. Next steps: measure fuel pressure at the Schrader valve and run the EEC-IV KOEO self-test.
 
----
+## 2026-04-17
 
-## 2026-04-19 — New active issue: Hard Start / No Start with Choppy Idle
-
-**Pages updated:**
-- `wiki/truck/active-issues.md` — added new issue entry
-
-**Summary:** Owner reports truck cranks, occasionally sputters to life with a rough choppy idle, then dies. Battery and terminals ruled out. No diagnostics performed yet.
-
-**Suspected causes (unconfirmed):** Fuel delivery (pump pressure, clogged filter), ignition (TFI module, cap/rotor/wires), EEC-IV sensor fault, or IAC/vacuum leak.
-
-**Next steps suggested:** Measure fuel pressure at Schrader valve; run EEC-IV KOEO self-test for fault codes.
-
----
-
-## 2026-04-17 — Fuel filter installation detail added from §24-51
-
-**Source:** `Full text of Engine Shop Manual.md`, Section 24-51
-
-**Pages updated:**
-- `wiki/systems/fuel-system.md` — Fuel filter location confirmed (frame rail between high-pressure pump and engine); arrow-direction installation requirement noted; pending updated to reflect remaining unknowns (part number)
-- `wiki/maintenance/fluids-and-service.md` — Fuel filter row updated with location, arrow-direction note, clamp torque (1.7–2.8 N·m / 15–25 in-lb), and manual's service life statement
-
-**Key fact:** Filter has a flow arrow on the body; must point toward engine. Manual states filter "should last the life of the vehicle under normal driving conditions" — no mileage interval given.
-
-**Remaining unknowns:**
-- Exact part numbers (Fig. 3 labels base assembly 9B072 and tube assembly 9J338 — applicability to 5.0L EFI not confirmed)
-
----
-
-
+* **Update**: Added fuel filter installation detail from Engine Shop Manual §24-51 to [fuel system](systems/fuel-system.md) and [fluids & service](maintenance/fluids-and-service.md). Filter is on the frame rail between the high-pressure pump and engine; a flow arrow on the body must point toward the engine; clamp torque 1.7–2.8 N·m (15–25 in-lb). Manual states the filter "should last the life of the vehicle under normal driving conditions." Exact part numbers remain unconfirmed for the 5.0L EFI (Fig. 3 labels base assembly 9B072, tube assembly 9J338).
+* **Ingestion**: Ingested three OEM manuals and created source summary pages.
 
 **Sources ingested:**
 
@@ -77,24 +52,5 @@
 - Compression ratio, horsepower, torque, coolant capacity not yet extracted
 - EEC-IV fault code list not extracted from Emissions Diagnosis §16
 
----
-
-## 2026-04-17 — Initial scaffold
-
-**Action:** Created starter wiki pages for the 1987 Ford F-250 EFI 5.0 V8 knowledge base.
-
-**Pages created:**
-- `wiki/index.md` — top-level index with links to all sections
-- `wiki/systems/engine.md` — engine specs and component placeholders
-- `wiki/systems/electrical.md` — wiring, fuses, sensors, EEC-IV notes
-- `wiki/systems/fuel-system.md` — fuel delivery, pressure, injector placeholders
-- `wiki/problems/common-issues.md` — symptom/issue index with template
-- `wiki/maintenance/fluids-and-service.md` — fluid specs and service interval table
-- `wiki/parts/known-part-categories.md` — part number index by system
-
-**Notes:**
-- No raw sources ingested yet; all spec fields were marked `_pending_`
-- All pages include cross-links to related pages
-- Unresolved questions captured per page for follow-up after source ingestion
-- No facts invented; placeholders used throughout
+* **Initialization**: Created the starter bundle for the 1987 Ford F-250 EFI 5.0 V8. Established [index](index.md), [engine](systems/engine.md), [electrical](systems/electrical.md), [fuel system](systems/fuel-system.md), [common issues](problems/common-issues.md), [fluids & service](maintenance/fluids-and-service.md), and [known part categories](parts/known-part-categories.md). No raw sources ingested yet — all spec fields marked `_pending_`; cross-links added between pages; no facts invented.
 

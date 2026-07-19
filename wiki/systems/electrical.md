@@ -1,3 +1,11 @@
+---
+type: System
+title: Electrical System
+description: Fuse panel, power distribution, EEC-IV sensors, and TFI-IV ignition for the 1987 F-250 5.0 EFI V8.
+tags: [electrical, fuses, eec-iv, sensors, ignition, wiring]
+timestamp: 2026-04-17T00:00:00Z
+---
+
 # Electrical System
 
 **Summary:** Wiring, fuses, sensors, and ignition system notes for the 1987 F-250 5.0 EFI V8.
